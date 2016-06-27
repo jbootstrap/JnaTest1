@@ -1,0 +1,9 @@
+*.dll
+*.class
+/dist
+Release
+Debug
+*.ipch
+*.suo
+*.opensdf
+*.sdf
